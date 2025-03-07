@@ -79,7 +79,7 @@ Contributions are welcome!
 - Open an issue to discuss ideas or report problems.
 - Submit a pull request with your changes, ensuring that you follow the project's coding standards.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Note: Make sure to grant execution permissions for the script files before use:
 
