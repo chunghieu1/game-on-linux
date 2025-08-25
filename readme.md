@@ -1,4 +1,4 @@
-# GameOnLinux - Linux Gaming Assistant 🎮🐧
+# GameOnLinux - Linux Gaming Assistant 
 
 GameOnLinux is a toolkit designed to simplify the process of installing, optimizing, and managing games on Linux. This project automatically sets up and configures Wine/Proton to run Windows games, optimizes game settings for maximum FPS, and integrates with popular game managers like Lutris, Steam, and SteamCMD.
 
@@ -78,8 +78,12 @@ Contributions are welcome!
 
 - Open an issue to discuss ideas or report problems.
 - Submit a pull request with your changes, ensuring that you follow the project's coding standards.
+
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Note: Make sure to grant execution permissions for the script files before use:
 
