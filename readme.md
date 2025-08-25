@@ -79,14 +79,15 @@ Contributions are welcome!
 - Open an issue to discuss ideas or report problems.
 - Submit a pull request with your changes, ensuring that you follow the project's coding standards.
 
+## Note
+Make sure to grant execution permissions for the script files before use:
+
+```bash
+chmod +x install_wine_proton.sh optimize_game_settings.sh
+```
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Note: Make sure to grant execution permissions for the script files before use:
-
-```bash
-chmod +x install_wine_proton.sh optimize_game_settings.sh
-```
